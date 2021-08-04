@@ -1,4 +1,4 @@
-#generatio-git-debrief
+# generatio-git-debrief
 
 - [ ] Open up a VS Code window on your PC or Mac
 - [ ] Select the View Tab at the top of VS Code and click the Command Palette option
