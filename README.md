@@ -9,7 +9,10 @@
 - [ ] Navigate to your Github Profile on your preferred browser the link should be `https://github.com/your_github_id`
 - [ ] Login if you are not already
 - [ ] Click on the + sign here and select New Repository from the dropdown
+  
   ![plus sign](./git_ss_1.PNG)
+
+  
 - [ ] Fill out the form to resemble the following screenshot
   ![new repo](./git_ss_2.PNG)
 - [ ] You will need to add a `Repository name`, should enter a `Description`, `Public` is fine for the activity, and lets click the Checkbox by `Add a README file` as almost every repo should have a markdown doc
