@@ -8,7 +8,7 @@
 - [ ] `cd ~/Desktop` (if on MacOS) else `cd ~/OneDrive/Desktop` (Windows)
 - [ ] Navigate to your Github Profile on your preferred browser the link should be `https://github.com/your_github_id`
 - [ ] Login if you are not already
-- [ ] Click on the + sign here and select New Repository from the dropdown
+- [ ] Click on the + sign at the top right of the page and select New Repository from the dropdown
   
   ![plus sign](./git_ss_1.PNG)
 
