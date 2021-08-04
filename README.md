@@ -1,4 +1,4 @@
-# generatio-git-debrief
+# generation-git-debrief
 
 - [ ] Open up a VS Code window on your PC or Mac
 - [ ] Select the View Tab at the top of VS Code and click the Command Palette option
@@ -12,9 +12,10 @@
   
   ![plus sign](./git_ss_1.PNG)
 
-  
 - [ ] Fill out the form to resemble the following screenshot
+  
   ![new repo](./git_ss_2.PNG)
+
 - [ ] You will need to add a `Repository name`, should enter a `Description`, `Public` is fine for the activity, and lets click the Checkbox by `Add a README file` as almost every repo should have a markdown doc
 - [ ] On the repo source code view lets click the <button style="color:white;background-color:green;">Code</button> button
   ![code btn ss](./git_ss_3.PNG)
