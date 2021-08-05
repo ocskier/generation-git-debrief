@@ -21,7 +21,7 @@
   ![code btn ss](./git_ss_3.PNG)
 - [ ] Then click the copy (or Clipboard) icon and make sure that `HTTPS` is underlined
   ![git url ss](./git_ss_5.PNG)
-- [ ] Navigate back to VS Code and in the terminal we still have open type `git clone` and then right-click and paste the copied git url - then hit Enter
+- [ ] Navigate back to VS Code and in the terminal we still have open, type `git clone` and then right-click and paste the copied git url - then hit Enter
 ```
 git clone make-sure-and-paste-the-copied-url-here
 ```
