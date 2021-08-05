@@ -4,7 +4,7 @@
 - [ ] Select the View Tab at the top of VS Code and click the Command Palette option
 - [ ] In the new popup command line start typing `Terminal: Select Default Profile` and when the option shows up select it 
 - [ ] In the next dropdown click on `Git Bash` (now when we open an integrated Terminal in VS Code it should be Bash)
-- [ ] Enter the command  **Ctrl + \`** to open an integrated terminal CLI in VS Code
+- [ ] Enter the command  **Ctrl + \`** (or the Terminal tab and the New Terminal option) to open an integrated terminal CLI in VS Code
 - [ ] `cd ~/Desktop` (if on MacOS) else `cd ~/OneDrive/Desktop` (Windows)
 - [ ] Navigate to your Github Profile on your preferred browser the link should be `https://github.com/your_github_id`
 - [ ] Login if you are not already
