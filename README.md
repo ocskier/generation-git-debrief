@@ -10,17 +10,17 @@
 - [ ] Login if you are not already
 - [ ] Click on the + sign at the top right of the page and select New Repository from the dropdown
   
-  ![plus sign](./git_ss_1.PNG)
+  ![plus sign](./assets/git_ss_1.PNG)
 
 - [ ] Fill out the form to resemble the following screenshot
   
-  ![new repo](./git_ss_2.PNG)
+  ![new repo](./assets/git_ss_2.PNG)
 
 - [ ] You will need to add a `Repository name`, should enter a `Description`, `Public` is fine for the activity, and lets click the Checkbox by `Add a README file` as almost every repo should have a markdown doc
 - [ ] On the repo source code view lets click the <button style="color:white;background-color:green;">Code</button> button
-  ![code btn ss](./git_ss_3.PNG)
+  ![code btn ss](./assets/git_ss_3.PNG)
 - [ ] Then click the copy (or Clipboard) icon and make sure that `HTTPS` is underlined
-  ![git url ss](./git_ss_5.PNG)
+  ![git url ss](./assets/git_ss_5.PNG)
 - [ ] Navigate back to VS Code and in the terminal we still have open, type `git clone` and then right-click and paste the copied git url - then hit Enter
 ```
 git clone make-sure-and-paste-the-copied-url-here
