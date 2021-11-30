@@ -29,7 +29,7 @@ git clone make-sure-and-paste-the-copied-url-here
 - `cd git-test`
 - `code -a .` to open the current folder in the same window (if you want to open in a new window would just be `code .`)
 - [ ] Click on the `git-test` folder in the left pane workspace then click on the `README.md` file to open in the editor
-- [ ] Add a new line to the README file `## Contributors`, hit Enter to go to the next line, and type your name
+- [ ] Add a new line to the README file `## Contributors` (make sure there is a blank line between the title and this new line), hit Enter to go to the next line, and type your name
 - [ ] Click the `File` tab at the top of VS Code and select `Save` or you can `Ctrl + S`  on Windows or `Cmd + S` on MacOS
 - [ ] Navigate down to integrated Terminal again and enter
 ```
