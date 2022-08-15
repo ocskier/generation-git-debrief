@@ -5,7 +5,7 @@
 - [ ] In the new popup command line start typing `Terminal: Select Default Profile` and when the option shows up select it 
 - [ ] In the next dropdown click on `Git Bash` (now when we open an integrated Terminal in VS Code it should be Bash)
 - [ ] Enter the command  **Ctrl + \`** (or the Terminal tab and the New Terminal option) to open an integrated terminal CLI in VS Code
-- [ ] `cd ~/Desktop` (if on MacOS) else `cd ~/OneDrive/Desktop` (Windows)
+- [ ] Change directories to your development folder (i.e. 'Coding') or if you dont have a place for all your coding projects just `cd ~/Desktop`
 - [ ] Navigate to your Github Profile on your preferred browser the link should be `https://github.com/your_github_id`
 - [ ] Login if you are not already
 - [ ] Click on the + sign at the top right of the page and select New Repository from the dropdown
