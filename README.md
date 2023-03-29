@@ -42,5 +42,7 @@ git add .
 git commit -m "Updates readme contributors"
 git push origin main
 ```
+***The last step will prob fail if you dont have SSO setup as well as the following***
+
 - [ ] Go back to Github and see the updated code on the remote repo
 - [ ] Great job everyone!
